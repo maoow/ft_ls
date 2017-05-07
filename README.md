@@ -1,15 +1,13 @@
 # ft_ls
 command ft_ls 42 project.
 # __________________________________________________________________
-# __________________________________________________________________
+
 
 ## Name
 ft_ls - list directory contents
-# __________________________________________________________________
 
 ## Synopsys
   ft_ls [option][file]
-# __________________________________________________________________
   
 ## Description
   List information about the FILEs (the current directory by default).

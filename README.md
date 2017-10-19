@@ -1,7 +1,6 @@
 # ft_ls
 command ft_ls 42 project.
-# __________________________________________________________________
-
+#
 
 ## Name
 ft_ls - list directory contents
